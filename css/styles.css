@@ -1,0 +1,8 @@
+p {
+  display: none;
+}
+
+h3:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
